@@ -1,0 +1,13 @@
+restful api constrains
+1)client server architecture:
+        works with any api
+2)stateless:
+        no client data is stored
+3)cachebility:
+        user has the freedon wheater their data should or shouldn't get cached
+4)Layered system:
+        intermidiate servers/apis can be used
+5)uniform interface:
+    ?
+6)code on demand
+        code of data can be accesed by userf
